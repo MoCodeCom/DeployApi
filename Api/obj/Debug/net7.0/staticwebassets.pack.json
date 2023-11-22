@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/mohammedalfadhel/Desktop/VS/DigitalOceanApi/Api/wwwroot/3rdpartylicenses.txt",
+      "PackagePath": "staticwebassets/3rdpartylicenses.txt"
+    },
+    {
+      "Id": "/Users/mohammedalfadhel/Desktop/VS/DigitalOceanApi/Api/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/mohammedalfadhel/Desktop/VS/DigitalOceanApi/Api/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/mohammedalfadhel/Desktop/VS/DigitalOceanApi/Api/wwwroot/main.9c3e4e3675aeaa2e.js",
+      "PackagePath": "staticwebassets/main.9c3e4e3675aeaa2e.js"
+    },
+    {
+      "Id": "/Users/mohammedalfadhel/Desktop/VS/DigitalOceanApi/Api/wwwroot/polyfills.c0be1f74adf7945c.js",
+      "PackagePath": "staticwebassets/polyfills.c0be1f74adf7945c.js"
+    },
+    {
+      "Id": "/Users/mohammedalfadhel/Desktop/VS/DigitalOceanApi/Api/wwwroot/runtime.f5eee37902774910.js",
+      "PackagePath": "staticwebassets/runtime.f5eee37902774910.js"
+    },
+    {
+      "Id": "/Users/mohammedalfadhel/Desktop/VS/DigitalOceanApi/Api/wwwroot/styles.ef46db3751d8e999.css",
+      "PackagePath": "staticwebassets/styles.ef46db3751d8e999.css"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.Api.props",
+      "PackagePath": "build\\Api.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Api.props",
+      "PackagePath": "buildMultiTargeting\\Api.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Api.props",
+      "PackagePath": "buildTransitive\\Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

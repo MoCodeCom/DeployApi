@@ -1,0 +1,14 @@
+/Users/mohammedalfadhel/Desktop/VS/DigitalOceanApi/Api/bin/Debug/net7.0/publish/Api
+/Users/mohammedalfadhel/Desktop/VS/DigitalOceanApi/Api/bin/Debug/net7.0/publish/appsettings.Development.json
+/Users/mohammedalfadhel/Desktop/VS/DigitalOceanApi/Api/bin/Debug/net7.0/publish/appsettings.json
+/Users/mohammedalfadhel/Desktop/VS/DigitalOceanApi/Api/bin/Debug/net7.0/publish/package-lock.json
+/Users/mohammedalfadhel/Desktop/VS/DigitalOceanApi/Api/bin/Debug/net7.0/publish/package.json
+/Users/mohammedalfadhel/Desktop/VS/DigitalOceanApi/Api/bin/Debug/net7.0/publish/Api.dll
+/Users/mohammedalfadhel/Desktop/VS/DigitalOceanApi/Api/bin/Debug/net7.0/publish/Api.deps.json
+/Users/mohammedalfadhel/Desktop/VS/DigitalOceanApi/Api/bin/Debug/net7.0/publish/Api.runtimeconfig.json
+/Users/mohammedalfadhel/Desktop/VS/DigitalOceanApi/Api/bin/Debug/net7.0/publish/Api.pdb
+/Users/mohammedalfadhel/Desktop/VS/DigitalOceanApi/Api/bin/Debug/net7.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/mohammedalfadhel/Desktop/VS/DigitalOceanApi/Api/bin/Debug/net7.0/publish/Microsoft.OpenApi.dll
+/Users/mohammedalfadhel/Desktop/VS/DigitalOceanApi/Api/bin/Debug/net7.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/mohammedalfadhel/Desktop/VS/DigitalOceanApi/Api/bin/Debug/net7.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/mohammedalfadhel/Desktop/VS/DigitalOceanApi/Api/bin/Debug/net7.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
